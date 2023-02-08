@@ -1,0 +1,6 @@
+git pull --rebase origin main
+git remote add origin https://github.com/Tanmoy037/Terraform-learning-.git
+git branch -m main ---rename current branch
+git branch 
+git checkout master
+
