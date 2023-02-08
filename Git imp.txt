@@ -3,4 +3,6 @@ git remote add origin https://github.com/Tanmoy037/Terraform-learning-.git
 git branch -m main ---rename current branch
 git branch 
 git checkout master
+git remote add origin <repo id>
+git remote set-url origin <new repo id>
 
